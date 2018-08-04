@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MiniTwitterApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="API_KEY">3tD7UPcftxix9KK7rYykfnOfB</string>
+    <string name="API_SECRET_KEY">eCVeHRcsnawY4Cr132Cf3sl6CxhbNevmjwC3MKoQtuGAo3gIIW</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_list">ListActivity</string>
+</resources>
